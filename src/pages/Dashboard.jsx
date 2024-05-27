@@ -20,7 +20,7 @@ const Dashboard = () => {
         align="center"
         justify="space-between"
         padding="1.5rem"
-        bg="teal.500"
+        bg="blue.500"
         color="white"
       >
         <Text fontSize="xl" fontWeight="bold">
